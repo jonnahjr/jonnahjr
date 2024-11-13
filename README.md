@@ -217,18 +217,39 @@ I'm a seasoned software developer with over 8 years of experience, specializing 
 
 ---
 
-### 📬 Get in Touch
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 📬 Get in Touch 📬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
 <p align="center">
-  <a href="https://calendly.com/johndoe/30min">
+  <em>I'm always open to interesting conversations and collaboration opportunities. Let's connect and create something amazing together!</em>
+</p>
+
+<p align="center">
+  <a href="https://calendly.com/jonnahjnr/30min" target="_blank">
     <img src="https://img.shields.io/badge/Schedule%20a%20Call-4285F4?style=for-the-badge&logo=Google%20Calendar&logoColor=white" alt="Schedule a Call" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/jonnahjnr/jonnahjnr/issues/new?template=collaboration-request.md">
+    <img src="https://img.shields.io/badge/👥 Collaborate-FF6B6B.svg?style=for-the-badge" alt="Collaborate" />
+  </a>
+  <a href="https://github.com/jonnahjnr/jonnahjnr/discussions/new?category=q-a">
+    <img src="https://img.shields.io/badge/💬 Ask%20Me-1DB954.svg?style=for-the-badge" alt="Ask Me" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://your-footer-image-url.com" alt="Footer Banner" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Have+a+great+day!;Let's+connect+and+innovate!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
-<p align="center">⭐️ From [johndoe](https://github.com/johndoe) with ❤️</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jonnahjnr/jonnahjnr/main/assets/footer-banner.gif" alt="Footer Banner" width="100%">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-ff69b4.svg?style=for-the-badge" alt="Made with Love">
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/jonnahjnr">jonnahjnr</a> with ❤️</p>
