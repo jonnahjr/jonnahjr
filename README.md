@@ -5,18 +5,73 @@
 <h1 align="center">Yonas Bogale</h1>
 <h3 align="center">Senior React & Flutter Developer | Tech Innovator | Open Source Enthusiast</h3>
 
+'use client'
+
+<div align="center">
+  
+<!-- Animated Greeting -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;Connect+with+me+👋&center=true&size=30">
+</h1>
+
+<!-- Social Badges with Hover Effects -->
 <p align="center">
-  <a href="https://linkedin.com/in/yonas-bogale"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jonnah.jr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://web.facebook.com/jonnah.jr/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:jonasjjonas14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
-  <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/yourchannelid"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yonas-bogale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/jonnah.jr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/jonnah.jr/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:jonasjjonas14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/jonnah.jr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/jonnah_jr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+  </a>
 </p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+<!-- Animated Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" />
+</p>
+
+<!-- Tech Stack Section -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> 
+  Tech Stack
+</h2>
+
+<!-- Add your tech stack badges here -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Add more technology badges as needed -->
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
