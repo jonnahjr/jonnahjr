@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://your-header-image-url.com" alt="Professional Developer Banner" width="100%">
+  <img src="https://www.creative-tim.com/blog/content/images/size/w960/2021/10/Github-profile-1.jpg" alt="Professional Developer Banner" width="100%">
 </div>
+
 
 <h1 align="center">Yonas Bogale</h1>
 <h3 align="center">Senior React & Flutter Developer | Tech Innovator | Open Source Enthusiast</h3>
