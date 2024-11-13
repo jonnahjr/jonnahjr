@@ -5,7 +5,6 @@
 <h1 align="center">Yonas Bogale</h1>
 <h3 align="center">Senior React & Flutter Developer | Tech Innovator | Open Source Enthusiast</h3>
 
-'use client'
 
 <div align="center">
   
