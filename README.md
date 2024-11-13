@@ -2,14 +2,20 @@
   <img src="https://your-header-image-url.com" alt="Professional Developer Banner" width="100%">
 </div>
 
-<h1 align="center">John Doe</h1>
+<h1 align="center">Yonas Bogale</h1>
 <h3 align="center">Senior React & Flutter Developer | Tech Innovator | Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@johndoe"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/></a>
-  <a href="mailto:john.doe@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yonas-bogale"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jonnah.jr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://web.facebook.com/jonnah.jr/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:jonasjjonas14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
+  <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/yourchannelid"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -22,30 +28,41 @@
 
 I'm a seasoned software developer with over 8 years of experience, specializing in creating robust and scalable applications using React and Flutter. My passion lies in crafting intuitive user interfaces and delivering seamless cross-platform experiences.
 
-- 🔭 I'm currently working on **[Project Name]**, a revolutionary [brief description]
-- 🌱 I'm currently exploring **[Technology/Framework]** to enhance my skill set
+- 🔭 I'm currently working on **Flutter App**.
+- 🌱 I'm currently exploring **Technology/Framework** to enhance my skill set
 - 💬 Ask me about **React, Flutter, State Management, CI/CD, and Software Architecture**
-- 📫 How to reach me: [john.doe@example.com](mailto:john.doe@example.com)
-- 📄 [My Resume](https://your-resume-link.com)
+- 📫 How to reach me: (jonasjjonas14@gmail.com)
+- 📄 [My Resume](https://your-resume-link.)
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+</div>
 
 ---
 
@@ -58,14 +75,52 @@ I'm a seasoned software developer with over 8 years of experience, specializing 
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Certifications
 
 - 🥇 **Top Contributor** - React Native Community (2022)
-- 🏆 **Best Mobile App Award** - [App Name] at [Event Name] (2021)
-- 📝 **Published Author** - "[Article Title]" in [Publication Name] (2020)
-- 🎓 **Certified** - Google Associate Android Developer
+- 🎓 **Certified Google Associate Android Developer**
+- 🎓 **AWS Certified Solutions Architect - Associate**
+- 🎓 **Microsoft Certified: Azure Developer Associate**
+- 🎓 **Oracle Certified Professional, Java SE 11 Developer**
+- 🎓 **Certified Kubernetes Administrator (CKA)**
+- 🎓 **MongoDB Certified Developer Associate**
+- 🎓 **Certified Scrum Master (CSM)**
 
----
+#### Front-End Development
+- 🎓 **React.js Certification** - freeCodeCamp
+- 🎓 **Vue.js Developer Certification** - Vue.js Organization
+- 🎓 **Angular Certification** - Angular University
+- 🎓 **Advanced CSS and Sass** - Udemy
+
+#### Back-End Development
+- 🎓 **Node.js Certification** - OpenJS Foundation
+- 🎓 **Python Developer Certification** - Python Institute
+- 🎓 **Ruby on Rails Developer Certification** - Ruby Association
+- 🎓 **PHP Certification** - Zend Certified Engineer
+
+#### Mobile Development
+- 🎓 **iOS Developer Certification** - Apple Developer Academy
+- 🎓 **Flutter Developer Certification** - Google Developers
+- 🎓 **Xamarin Certified Mobile Developer** - Microsoft
+
+#### DevOps & Cloud
+- 🎓 **Docker Certified Associate**
+- 🎓 **Google Cloud Professional Cloud Architect**
+- 🎓 **Certified Jenkins Engineer**
+
+#### Database
+- 🎓 **Oracle Database SQL Certified Expert**
+- 🎓 **Microsoft Certified: Azure Database Administrator Associate**
+
+#### Security
+- 🎓 **CompTIA Security+ Certification**
+- 🎓 **Certified Information Systems Security Professional (CISSP)**
+
+#### Other
+- 🎓 **TensorFlow Developer Certificate** - Google AI
+- 🎓 **Blockchain Certification** - Blockchain Council
+- 🥈 **Runner-up** - International Collegiate Programming Contest (ICPC) Regional (2021)
+- 📚 **Published Author** - "Modern Web Development Techniques" (2023)
 
 ### 🌟 Featured Projects
 
