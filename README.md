@@ -1,132 +1,209 @@
 <div align="center">
   <img src="https://www.creative-tim.com/blog/content/images/size/w960/2021/10/Github-profile-1.jpg" alt="Professional Developer Banner" width="100%">
 </div>
-
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+%7C+Systems+Developer;Security-Aware+System+Builder;React+%7C+Node+%7C+TypeScript&center=true&width=760&height=45" />
+</p>
 
 <h1 align="center">Yonas Bogale</h1>
-<h3 align="center">Senior React & Flutter Developer | Tech Innovator | Open Source Enthusiast</h3>
 
+<h3 align="center">
+  Full-Stack Developer • Web | Mobile Apps | Systems
+</h3>
 
-<div align="center">
-  
-<!-- Animated Greeting -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;Connect+with+me+👋&center=true&size=30">
-</h1>
-
-<!-- Social Badges with Hover Effects -->
 <p align="center">
-  <!-- LinkedIn -->
+  <em>Security-Aware System Builder • React • Node • TypeScript</em>
+</p>
+
+<!-- Profile Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonnahjnr&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/jonnahjnr?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/jonnahjnr?label=Stars&style=flat" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
   <a href="https://linkedin.com/in/yonas-bogale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <!-- Instagram -->
   <a href="https://www.instagram.com/jonnah.jr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
-  <!-- Facebook -->
   <a href="https://web.facebook.com/jonnah.jr/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:jonasjjonas14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+  <a href="mailto:jonasjjonas14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/jonnah.jr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  <a href="https://github.com/jonnahjnr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- Twitter -->
   <a href="https://twitter.com/jonnah_jr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonnahjnr&hide_border=true&theme=transparent" />
 </p>
 
-<!-- Animated Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" />
-</p>
-
-<!-- Tech Stack Section -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> 
-  Tech Stack
-</h2>
-
-<!-- Add your tech stack badges here -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Add more technology badges as needed -->
-</p>
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
+<hr />
 
 ### 👨‍💻 About Me
 
-I'm a seasoned software developer with over 8 years of experience, specializing in creating robust and scalable applications using React and Flutter. My passion lies in crafting intuitive user interfaces and delivering seamless cross-platform experiences.
+I’m a **Full-Stack Developer specializing in Web, Mobile Apps, and Systems**. I build **secure, scalable, and high-performance software solutions** with a strong focus on **architecture, security, and long-term maintainability. My passion lies in crafting intuitive user interfaces and delivering seamless cross-platform experiences.**.
 
-- 🔭 I'm currently working on **Flutter App**.
-- 🌱 I'm currently exploring **Technology/Framework** to enhance my skill set
-- 💬 Ask me about **React, Flutter, State Management, CI/CD, and Software Architecture**
-- 📫 How to reach me: (jonasjjonas14@gmail.com)
-- 📄 [My Resume](https://your-resume-link.)
-
----
-
-### 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-</div>
+- 🔭 Currently working on **Full-Stack Web & System-level applications**
+- 🌱 Actively exploring **modern web technologies, frameworks, and system design**
+- 💬 Ask me about **React, TypeScript, State Management, CI/CD, and Software Architecture**
+- 📫 How to reach me: **jonasjjonas14@gmail.com**
+- 📄 **Resume:** [View Resume](https://your-resume-link.com)
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Technical Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" alt="John's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&hide_border=true&theme=radical" width="48%" alt="John's GitHub Streak" />
-</div>
+### ⚛️ Frontend (React Ecosystem)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,gatsby,vite,preact" />
+</p>
+
+---
+
+### 🧩 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JSX-React-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/TSX-TypeScript-blue?style=flat-square" />
+</p>
+
+---
+
+### 🗂 State Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jotai-000000?style=flat-square" />
+</p>
+
+---
+
+### 🎨 Styling & UI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,styledcomponents,materialui,bootstrap" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square" />
+</p>
+
+---
+
+## 🧩 Backend & Systems
+
+### 🛠 Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square" />
+</p>
+
+---
+
+### 🗄 Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase,supabase" />
+</p>
+
+---
+
+### 🔌 APIs & Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square" />
+  <img src="https://img.shields.io/badge/SWR-000000?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=axios" />
+</p>
+
+---
+
+## ⚙️ Build, Testing & Quality
+
+### 🔧 Tooling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,babel,rollup,eslint,prettier" />
+  <img src="https://img.shields.io/badge/Turbopack-000000?style=flat-square" />
+</p>
+
+---
+
+### 🧪 Testing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,cypress,playwright,vitest" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square" />
+</p>
+
+---
+
+## ☁️ DevOps & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,aws,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<!-- Main Stats + Streak -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnahjnr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonnahjnr&hide_border=true&theme=transparent" width="48%" />
+</p>
+
+<!-- Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnahjnr&layout=compact&langs_count=10&hide_border=true&theme=transparent" width="45%" />
+</p>
+
+<!-- Profile Summary (VERY IMPORTANT – Senior Signal) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonnahjnr&theme=github_dark" />
+</p>
+
+<!-- Productivity Metrics -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonnahjnr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonnahjnr&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonnahjnr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonnahjnr&theme=github_dark&utcOffset=3" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonnahjnr&theme=github-compact&hide_border=true" />
+</p>
+
 
 ---
 
@@ -177,45 +254,33 @@ I'm a seasoned software developer with over 8 years of experience, specializing 
 - 🥈 **Runner-up** - International Collegiate Programming Contest (ICPC) Regional (2021)
 - 📚 **Published Author** - "Modern Web Development Techniques" (2023)
 
-### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/johndoe/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=project-1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/johndoe/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=project-2&theme=radical" alt="Project 2" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/johndoe?tab=repositories">
-    <img src="https://img.shields.io/badge/-More%20Projects-2962FF?style=for-the-badge&logo=koding&logoColor=white" alt="More Projects" />
-  </a>
-</p>
-
 ---
 
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Hooks: A Comprehensive Guide](https://your-blog-url.com/post-1)
-- [Flutter vs React Native: A 2023 Comparison](https://your-blog-url.com/post-2)
-- [Optimizing Performance in Large-Scale React Applications](https://your-blog-url.com/post-3)
+- ⚛️ **Mastering React Hooks** — patterns, pitfalls, and performance
+- 🧠 **Scalable State Management in React** (Redux, Zustand, Jotai)
+- ⚡ **Optimizing Performance in Large-Scale React Applications**
+- 🏗 **Clean Architecture for Modern React & Node.js Systems**
+- 🔐 **Security Best Practices for Frontend & API-Driven Apps**
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://your-blog-url.com)
+➡️ **More articles:** https://your-blog-url.com
 
 ---
 
 ### 🎯 Future Goals
 
-- 📱 Launch a groundbreaking mobile app using Flutter
-- 🚀 Contribute to the core React library
-- 🎓 Mentor aspiring developers and give back to the community
-- 📚 Write a comprehensive book on modern web development practices
+- ⚛️ Build and maintain **production-grade React systems**
+- 🚀 Contribute to **React ecosystem tools & open-source libraries**
+- 🧩 Design **scalable frontend architectures** for large teams
+- 🔐 Advance **security-aware frontend & API development**
+- 🎓 Mentor developers in **React, systems thinking, and clean code**
+- 📚 Write in-depth guides on **modern React & full-stack architecture**
 
 ---
+
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 📬 Get in Touch 📬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
