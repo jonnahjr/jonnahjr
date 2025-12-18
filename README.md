@@ -172,15 +172,28 @@ I’m a **Full-Stack Developer specializing in Web, Mobile Apps, and Systems**. 
 
 ## 📊 GitHub Stats & Activity
 
-<!-- GitHub Overall Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonnahjnr&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jonnahjr&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=jonnahjr&hide_border=true" />
+</p>
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonnahjnr&theme=github-dark-blue)
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnahjr&layout=compact&langs_count=8&hide_border=true" />
+</p>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnahjnr&layout=compact&langs_count=8&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonnahjr&hide_border=true" />
+</p>
 
+<p align="center">
+  <em>📌 Visual indicators only — I focus on real-world system design, security, and engineering impact.</em>
+</p>
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnahjr&layout=compact&langs_count=8)
 
 ---
 
@@ -243,7 +256,6 @@ I’m a **Full-Stack Developer specializing in Web, Mobile Apps, and Systems**. 
 - 🔐 **Security Best Practices for Frontend & API-Driven Apps**
 <!-- BLOG-POST-LIST:END -->
 
-➡️ **More articles:** https://your-blog-url.com
 
 ---
 
