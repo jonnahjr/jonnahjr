@@ -172,59 +172,15 @@ I’m a **Full-Stack Developer specializing in Web, Mobile Apps, and Systems**. 
 
 ## 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats & Streak -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jonnahjnr&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jonnahjnr&theme=github-dark-blue&hide_border=true"
-    width="48%"
-  />
-</p>
+<!-- GitHub Overall Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonnahjnr&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonnahjnr&theme=github-dark-blue)
 
 <!-- Top Languages -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnahjnr&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    width="45%"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnahjnr&layout=compact&langs_count=8&theme=github_dark)
 
-<!-- Profile Summary -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonnahjnr&theme=github_dark"
-  />
-</p>
-
-<!-- Language & Repo Metrics -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonnahjnr&theme=github_dark"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonnahjnr&theme=github_dark"
-  />
-</p>
-
-<!-- Contribution Stats -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonnahjnr&theme=github_dark"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonnahjnr&theme=github_dark&utcOffset=3"
-  />
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jonnahjnr&theme=github-dark&hide_border=true"
-  />
-</p>
 
 ---
 
